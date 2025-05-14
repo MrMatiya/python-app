@@ -1,0 +1,118 @@
+User-Agent: *
+Allow: /
+Allow: /assets/images/*
+Allow: /*.pdf
+Disallow: /*?
+Disallow: /register/
+Disallow: /*payment
+Disallow: /*cart
+Disallow: /my-account/
+Disallow: /*.html
+Disallow: /*.php
+
+Sitemap: https://file:///C:/Users/TawandaMatiya/OneDrive%20-%20Rain/Desktop/HTML/index.html/sitemap.xml
+
+User-Agent: Googlebot
+Allow: /
+
+User-Agent: Googlebot-news
+Allow: /
+
+User-Agent: AdsBot-Google
+Allow: /
+
+User-Agent: Mediapartners-Google
+Allow: /
+
+User-Agent: Googlebot-Image
+Allow: /
+
+User-Agent: Bingbot
+Allow: /
+
+User-Agent: DuckDuckBot
+Allow: /
+
+User-Agent: facebookexternalhit
+Allow: /
+
+User-Agent: Applebot
+Allow: /
+
+User-Agent: Twitterbot
+Allow: /
+
+User-Agent: Yandex
+Allow: /
+
+User-Agent: linkedinbot
+Allow: /
+
+User-Agent: MSNBot
+Allow: /
+
+User-Agent: BLEXBot
+Disallow: /
+
+User-Agent: AhrefsBot
+Disallow: /
+
+User-Agent: SemrushBot
+Disallow: /
+
+User-Agent: PerplexityBot
+Disallow: /
+
+User-Agent: Neevabot
+Disallow: /
+
+User-Agent: DataForSeoBot
+Disallow: /
+
+User-Agent: SemrushBot-SA
+Disallow: /
+
+User-Agent: SiteExplorer
+Disallow: /
+
+User-Agent: proximic
+Disallow: /
+
+User-Agent: QuerySeekerSpider
+Disallow: /
+
+User-Agent: WBSearchBot
+Disallow: /
+
+User-Agent: sistrix
+Disallow: /
+
+User-Agent: netEstate NE Crawler
+Disallow: /
+
+User-Agent: heritrix
+Disallow: /
+
+User-Agent: special_archiver
+Disallow: /
+
+User-Agent: MJ12bot
+Disallow: /
+
+User-Agent: archive.org_bot
+Disallow: /
+
+User-Agent: ia_archiver
+Disallow: /
+
+User-Agent: SEOkicks-Robot
+Disallow: /
+
+User-Agent: Vagabondo
+Disallow: /
+
+User-Agent: 008
+Disallow: /
+
+User-Agent: Baiduspider
+Disallow: /
